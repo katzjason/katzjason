@@ -1,15 +1,17 @@
 ### Hi there, I'm Jason! 👋
 
-I'm a rising senior at Cornell University pursuing a double major in Information Science, and Applied Economics & Management. 
+I'm a senior at Cornell University pursuing a double major in Information Science, and Applied Economics & Management. 
 
 
-Here are some of the projects that I'm currently working on:
+Here are some of the projects that I've recently worked on:
 
-🚀 Bantr -> Software Engineering Intern (Summer 2022)
+🚀 Bantr -> Software Engineering Intern (Summer 2022 – Present)
 
-💕 Perfect Match -> Software Developer (March 2022 – Present)
+💕 Perfect Match -> Software Developer (June 2022 – Present)
 
-🧩 MultiWordle -> Software Developer (February 2022 – Present)
+🤫 Spoiler Things -> Machine Learning Software Engineer (September 2022 - Present)
+
+🧩 MultiWordle -> Software Developer (February 2022 – May 2022)
 
 
 My email is jak496@cornell.edu -> please feel free to reach out!
