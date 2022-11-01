@@ -9,7 +9,6 @@ Here are some of the projects that I've recently worked on:
 
 💕 Perfect Match -> Software Developer (June 2022 – Present)
 
-🤫 Spoiler Things -> Machine Learning Software Engineer (September 2022 - Present)
 
 🧩 MultiWordle -> Software Developer (February 2022 – May 2022)
 
