@@ -5,10 +5,9 @@ I'm a senior at Cornell University pursuing a double major in Information Scienc
 
 Here are some of the projects that I've recently worked on:
 
-🚀 Bantr -> Software Engineering Intern (Summer 2022 – Present)
-
 💕 Perfect Match -> Software Developer (June 2022 – Present)
 
+🚀 Bantr -> Software Engineering Intern (Summer 2022)
 
 🧩 MultiWordle -> Software Developer (February 2022 – May 2022)
 
