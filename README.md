@@ -1,7 +1,6 @@
 ### Hi there, I'm Jason! 👋
 
-I'm a senior at Cornell University pursuing a double major in Information Science, and Applied Economics & Management. 
-
+I'm a recent graduate of Cornell University (May 2023) where I studied Information Science and Finance. I'm actively looking for full-time Software Engineering opportunities. My email is jak496@cornell.edu -> please feel free to reach out!
 
 Here are some of the projects that I've recently worked on:
 
@@ -12,7 +11,7 @@ Here are some of the projects that I've recently worked on:
 🧩 MultiWordle -> Software Developer (February 2022 – May 2022)
 
 
-My email is jak496@cornell.edu -> please feel free to reach out!
+
 
 
 <!--
