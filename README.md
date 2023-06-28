@@ -11,8 +11,6 @@ Here are some of the projects that I've recently worked on:
 
 🧩 MultiWordle -> Software Developer (February 2022 – May 2022)
 
-🌐 Check out my personal website {in progress} @ https://katzjason.github.io
-
 
 My email is jak496@cornell.edu -> please feel free to reach out!
 
