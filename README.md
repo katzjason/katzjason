@@ -4,7 +4,7 @@ I'm a recent graduate of Cornell University (May 2023) where I studied Informati
 
 Here are some of the projects that I've recently worked on:
 
-💕 Perfect Match -> Software Developer (June 2022 – Present)
+💕 Perfect Match -> Software Developer (June 2022 – May 2023)
 
 🚀 Bantr -> Software Engineering Intern (Summer 2022)
 
