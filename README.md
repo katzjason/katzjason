@@ -1,6 +1,6 @@
-### Hi there, I'm Jason! 👋
+### Hi there, I'm Jason 👋
 
-I'm a recent graduate of Cornell University (May 2023) where I studied Information Science and Finance. I'm actively looking for full-time Software Engineering opportunities. My email is jak496@cornell.edu -> please feel free to reach out!
+I'm a Software Engineer at Memorial Sloan Kettering Cancer Center and graduate of Cornell University (May 2023). I'm always looking for interesting opportunities––please reach out! -> katz.jason37@gmail.com
 
 Here are some of the projects that I've recently worked on:
 
