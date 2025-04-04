@@ -4,11 +4,13 @@ I'm a Software Engineer at Memorial Sloan Kettering Cancer Center and graduate o
 
 Here are some of the projects that I've recently worked on:
 
-💕 Perfect Match -> Software Developer (June 2022 – May 2023)
+🧠 AlphaGo (9x9 Go) -> January 2025 - April 2025
 
-🚀 Bantr -> Software Engineering Intern (Summer 2022)
+💕 Perfect Match -> June 2022 – May 2023
 
-🧩 MultiWordle -> Software Developer (February 2022 – May 2022)
+🚀 Bantr -> Summer 2022
+
+🧩 MultiWordle -> February 2022 – May 2022
 
 
 
