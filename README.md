@@ -4,7 +4,7 @@ I'm a Software Engineer at Memorial Sloan Kettering Cancer Center and graduate o
 
 Here are some of the projects that I've recently worked on:
 
-🧠 AlphaGo (9x9 Go) -> June 2025 - August 2025
+🧠 AlphaGo (9x9 Go) -> June 2025 - July 2025
 
 💕 Perfect Match -> June 2022 – May 2023
 
